@@ -2,7 +2,7 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/fe0c46a730ac0e507dd57.jpg" width="170" height="170"/>
+  <img border-radius: 15px src="https://i.ibb.co/C2RVkR8/image-04930246769775737.jpg" width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="QueenDA" src="https://img.shields.io/badge/thinura2003-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
