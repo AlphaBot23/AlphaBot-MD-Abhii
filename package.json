@@ -1,7 +1,7 @@
 {
-  "name": "Pinky",
-  "version": "7.3.6",
-  "description": "Pinky is the Modified Version of WhatsAsena.",
+  "name": "AlphaBot-MD-v1",
+  "version": "1.0.0",
+  "description": "මෙය ඔබ වෙනුවෙන්ම සාදන ලද වට්සැප් සමුහයකි... මෙහෙයුම් තවමත් පරීක්ෂණ මට්ටමේ පවතී.",
   "main": "./Pinky_V2/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
